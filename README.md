@@ -28,4 +28,4 @@ Ao final das aulas teremos todo o projeto, no momento estamos na aula 01 do Djan
 
 ## Arquitetura do projeto
 
-![alt text](./arquitetura_projeto.png)
+![alt text](./arquitetura_projeto_full_cycle_fctube.png)
